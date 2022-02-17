@@ -1,0 +1,27 @@
+
+
+ABAP System Details to be added in SAPGUI
+
+S/4HANA  Server
+IP: 103.207.171.202
+Port No: 21
+System ID : CFN
+
+On your windows run command, type mstsc (Remote desktop connection)
+
+RDC IP :- 103.207.171.202:3388
+
+username- suser7/8/9/10/11/12/13/16/17/18
+
+Abhijeet - suser7
+Aditya - suser8
+Nilash - suser11
+Nitin - suser12
+Sagar - suser13
+Samar - suser16
+Santosh - suser17
+Tej - suser18
+Tirumalesu - suser9
+Uday - suser10
+Amit - 
+Mohit - 
